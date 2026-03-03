@@ -1,0 +1,6 @@
+{
+  "browser": {
+    "type": "stdio",
+    "command": ["npx", "-y", "agent-browser-protocol", "--mcp"]
+  }
+}
