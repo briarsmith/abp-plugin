@@ -1,0 +1,10 @@
+{
+  "name": "agent-browser-protocol",
+  "description": "Browser automation for AI agents with smart task planning",
+  "author": {
+    "name": "Han Wang"
+  },
+  "homepage": "https://github.com/theredsix/agent-browser-protocol",
+  "repository": "https://github.com/theredsix/abp-plugin",
+  "license": "BSD-3-Clause"
+}
