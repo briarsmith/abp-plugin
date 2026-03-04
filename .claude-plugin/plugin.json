@@ -1,10 +1,12 @@
 {
-  "name": "agent-browser-protocol",
+  "name": "abp",
+  "version": "1.0.0",
   "description": "Browser automation for AI agents with smart task planning",
   "author": {
-    "name": "Han Wang"
+    "name": "Briar Smith"
   },
-  "homepage": "https://github.com/theredsix/agent-browser-protocol",
-  "repository": "https://github.com/theredsix/abp-plugin",
-  "license": "BSD-3-Clause"
+  "homepage": "https://github.com/briarsmith/abp-plugin",
+  "repository": "https://github.com/briarsmith/abp-plugin",
+  "license": "BSD-3-Clause",
+  "keywords": ["browser", "automation", "mcp", "browsing", "web"]
 }
