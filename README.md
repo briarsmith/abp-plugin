@@ -10,9 +10,15 @@ When you install this plugin, you get:
 
 ## Install
 
+### Local
+
 ```bash
-/plugin add /path/to/abp-plugin
+claude --plugin-dir /path/to/abp-plugin
 ```
+
+### Marketplace
+
+Coming soon.
 
 ## How It Works
 
